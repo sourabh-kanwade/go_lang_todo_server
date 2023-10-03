@@ -1,0 +1,4 @@
+go_todo_json_server
+*.exe
+
+*.db
